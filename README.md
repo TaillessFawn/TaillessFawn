@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TaillessFawn
 - 👀 I’m interested in gaming and coding, as well as anime
-- 🌱 I’m currently learning python because of school, but am also interesting in/considering learning C# for game development on Unity
-- 😅 I am extremely new to coding and development and that whole field, but I am interested in it
+- 🌱 I’m currently learning python because of school, but am also learning javascript and react on the side.
+- 😅 I am extremely new to coding and development and that whole field, but I am deeply intrigued by it and want to learn more
 
 <!---
 TaillessFawn/TaillessFawn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
